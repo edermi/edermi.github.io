@@ -8,7 +8,7 @@ tags: ["gophish", "red team", "phishing"]
 
 A few days ago I tweeted one of my modifications to Gophish:
 
-{{< twitter user="michael_eder_" id="1393001118788096002" >}}
+{{< x user="michael_eder_" id="1393001118788096002" >}}
 
 I decided that it is worth to go a little bit into detail on how to modify Gophish.
 
@@ -475,7 +475,7 @@ Especially for projects written in Go, it is often quite easy to understand what
 I've had many cases where tools were missing small features or didn't work in the concrete scenario, most of them were easy to overcome with some custom patches.
 Apart from that, I generally recommend all Red Teamers to know what your daily tradecraft does behind the scenes, some things may surprise you and uncover your operation right after you started... 
 
-{{< twitter user="michael_eder" id="1191396074373730304" >}}
+{{< x user="michael_eder" id="1191396074373730304" >}}
 
 I also recommend you to look at other branches than main/master and to go through Pull requests.
 Often you find interesting stuff you can reuse, for example there's a quite old [beef-integration branch](https://github.com/gophish/gophish/tree/beef-integration) in the Gophish repository and there are Pull requests like [Implement functionality to support custom RId - Ability to specify both the character set and length](https://github.com/gophish/gophish/pull/2162). 
