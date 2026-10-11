@@ -22,7 +22,7 @@ enableGitInfo = true
   github = "edermi"
   twitter = "michael_eder_"
   mastodon = "infosec.exchange/@edermi"
-  linkedin = "michael-eder-34b923120"
+  linkedin = "https://linkedin.com/in/michael-eder-34b923120"
   xing = "Michael_Eder65"
 
 [markup.highlight]
