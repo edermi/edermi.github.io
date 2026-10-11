@@ -39,7 +39,7 @@ My additions:
 - ELF meta data ([see also](http://www.cs.dartmouth.edu/~sergey/wm/woot13-shapiro.pdf))
 - MP4 ([see also](https://twitter.com/chordbug/status/935631531036545024?lang=de))
 - Dwarf Fortress ([see also](http://dwarffortresswiki.org/index.php/DF2014:Computing))
-- Star Craft ([see also](0xeb.net/wp-content/uploads/2018/02/StarCraft_EUD_Emulator.pdf))
+- Star Craft ([see also](https://0xeb.net/wp-content/uploads/2018/02/StarCraft_EUD_Emulator.pdf))
 - TypeScript type System ([see also](https://github.com/Microsoft/TypeScript/issues/14833))
 - Age of Empires 2 Map Editor ([see also](https://ecc-comp.blogspot.de/2018/02/age-of-empires-2-scenario-editor-is.html))
 - Factorio ([see also](https://imgur.com/gallery/8-bit-turing-complete-computer-that-i-made-factorio-tVB9xOx))
