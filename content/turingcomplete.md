@@ -29,7 +29,7 @@ My additions:
 - printf ([see also](https://github.com/HexHive/printbf))
 - x86 MOV instruction ([see MoVfuscator](https://github.com/xoreaxeaxeax/movfuscator))
 - x86 XOR instruction ([see MoVfuscator zu XORfuscator](https://github.com/xoreaxeaxeax/movfuscator/blob/master/post/xor.py))
-- XSLT ([see also](http://conferences.idealliance.org/extreme/html/2004/Kepser01/EML2004Kepser01.html))
+- XSLT ([see also](https://web.archive.org/web/20210124044601/http://conferences.idealliance.org/extreme/html/2004/Kepser01/EML2004Kepser01.html))
 - sed ([see also](https://gist.github.com/thequux/b94be012ee8cdb0ccf55))
 - make ([see also](https://gist.github.com/thequux/03416e4d3d9af963209b))
 - Haskell type system ([see also](https://wiki.haskell.org/Type_SK))
@@ -44,7 +44,7 @@ My additions:
 - Age of Empires 2 Map Editor ([see also](https://ecc-comp.blogspot.de/2018/02/age-of-empires-2-scenario-editor-is.html))
 - Factorio ([see also](https://imgur.com/gallery/8-bit-turing-complete-computer-that-i-made-factorio-tVB9xOx))
 
-I'd like to thank [Manuel Bergler](https://twitter.com/berglerma) for giving me regular input on this.
+I'd like to thank Manuel Bergler for giving me regular input on this.
 
 
 Last update: 2024-09-09
